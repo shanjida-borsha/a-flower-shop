@@ -67,7 +67,7 @@
     margin-left: 60px;
 }
 
-.sec-3 {
+.sec-three {
     width: 1100px;
     height: 280px;
     background-color: rgb(250, 247, 247);
@@ -82,4 +82,57 @@
 .delivery {
     margin: auto;
     gap: 30px;
+}
+
+/*Section 4 starts*/
+.sec-four {
+   width: 1100 px;
+   height: 200px;
+   background-color: rgb(246, 241, 242);
+   margin-top: 70px;
+}
+
+deals {
+   /* margin-left: 200px;
+    width: 40%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 100px;*/
+
+.banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.para-two {
+    width: 20%;
+}
+
+.hot-deals {
+    margin-left: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*section 5 starts*/
+
+.sec-five { 
+   margin-top: 70px; 
+}
+
+
+
+.instagram {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-top: 70px;
+}
+
+.flowers {
+    margin-left: 200px;
+    display: flex;
 }
