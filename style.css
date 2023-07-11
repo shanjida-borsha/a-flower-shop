@@ -63,7 +63,7 @@
 
 .caption {
     display: flex;
-    gap: 350px;
+    gap: 280px;
     margin-left: 60px;
 }
 
@@ -83,6 +83,7 @@
     margin: auto;
     gap: 30px;
 }
+
 
 /*Section 4 starts*/
 .sec-four {
@@ -135,4 +136,20 @@ deals {
 .flowers {
     margin-left: 200px;
     display: flex;
+}
+
+.sec-seven {
+    margin-top: 50px;
+    margin-left: 40px;
+    justify-content: center;
+    
+}
+
+.container {
+    width: 400px;
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    color: black;
 }
