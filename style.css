@@ -54,3 +54,32 @@
     justify-content: center;
     text-align: center;
 }
+
+.images {
+    display: flex;
+    gap: 140px;
+    margin-left: 120px;
+}
+
+.caption {
+    display: flex;
+    gap: 350px;
+    margin-left: 60px;
+}
+
+.sec-3 {
+    width: 1100px;
+    height: 280px;
+    background-color: rgb(250, 247, 247);
+    border: 3px;
+    margin-left: 100px;
+    gap: 400px;
+    display: flex;
+    margin-top: 100px;
+    align-items: center;
+
+}
+.delivery {
+    margin: auto;
+    gap: 30px;
+}
